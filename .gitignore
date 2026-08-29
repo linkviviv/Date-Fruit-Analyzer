@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local history — regenerated per install, not meant to be versioned
+history.db
+history_outputs/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
